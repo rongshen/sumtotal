@@ -1,0 +1,9 @@
+C:\Users\rshen\TranslationTool\TranslationTool\bin\Debug\TranslationTool.exe.config
+C:\Users\rshen\TranslationTool\TranslationTool\bin\Debug\TranslationTool.exe
+C:\Users\rshen\TranslationTool\TranslationTool\bin\Debug\TranslationTool.pdb
+C:\Users\rshen\TranslationTool\TranslationTool\obj\Debug\TranslationTool.csprojResolveAssemblyReference.cache
+C:\Users\rshen\TranslationTool\TranslationTool\obj\Debug\TranslationTool.Properties.Resources.resources
+C:\Users\rshen\TranslationTool\TranslationTool\obj\Debug\TranslationTool.csproj.GenerateResource.Cache
+C:\Users\rshen\TranslationTool\TranslationTool\obj\Debug\TranslationTool.exe
+C:\Users\rshen\TranslationTool\TranslationTool\obj\Debug\TranslationTool.pdb
+C:\Users\rshen\TranslationTool\TranslationTool\obj\Debug\TranslationTool.MainForm.resources
